@@ -80,7 +80,7 @@ pyinstaller --noconfirm --onefile --windowed --icon=icon.ico --add-data "icon.ic
 
 ## Auteur
 
-Theo COUTARD
+ATHEO INFORMATIQUE
 
 GitHub : https://github.com/ATHEO-INFORMATIQUE
 
